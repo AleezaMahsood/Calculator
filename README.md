@@ -11,4 +11,5 @@ This is a simple web-based calculator application built with HTML, CSS, and Java
 ## Installation
 
 1. Clone the repository to your local machine:
+ git clone https://github.com/AleezaMahsood/Calculator.git 
 
